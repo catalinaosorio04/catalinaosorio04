@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Soy profesional en desarrollo de software y pruebas de calidad, con experiencia en la creación y ejecución de pruebas manuales y automatizadas para asegurar la calidad del software. He apoyado en la gestión de proyectos ágiles, participando en la planificación y coordinación de tareas. Me caracterizo por mi atención al detalle, actitud proactiva y disposición para el trabajo en equipo.
+Profesional en desarrollo de software con experiencia en pruebas de calidad (QA) manuales y automatizadas, así como en automatización de procesos empresariales. He participado en proyectos ágiles desde el análisis, desarrollo y pruebas, hasta la documentación y capacitación de usuarios. Me destaco por mi enfoque analítico, compromiso con la mejora continua y capacidad para adaptarme a diversos entornos tecnológicos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-osorio-3200b0242/)
