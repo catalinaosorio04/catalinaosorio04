@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Profesional en desarrollo de software con experiencia en pruebas de calidad (QA) manuales y automatizadas, así como en automatización de procesos empresariales. He participado en proyectos ágiles desde el análisis, desarrollo y pruebas, hasta la documentación y capacitación de usuarios. Me destaco por mi enfoque analítico, compromiso con la mejora continua y capacidad para adaptarme a diversos entornos tecnológicos.
+Tecnóloga en Desarrollo de Software con experiencia en aseguramiento de calidad (QA), diseño y ejecución de pruebas funcionales manuales y automatizadas en entornos ágiles. Experiencia en automatización con Java, Selenium, Cucumber, Gherkin y Page Object Model (POM); validación de servicios REST mediante Postman y pruebas de regresión. Conocimientos en SQL, Git y Scrum. Experiencia complementaria en automatización de procesos con Python y SAP GUI Scripting, y aplicación de inteligencia artificial mediante agentes, subagentes y orquestadores para apoyar actividades de testing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-osorio-3200b0242/)
